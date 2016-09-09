@@ -36,3 +36,18 @@ set encoding=utf-8
 
 ## MarkDown:md文件转为pdf文件
 - 使用Chrome的预览插件打开预览，然后使用打印功能，即可保存为PDF文件。效果还是很棒的。
+
+## vim添加markdown语法高亮
+> 使用[plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+
+- 步骤如下（使用Vundle管理vim插件，其它的管理方式的安装方法可以参考原链接的内容）：
+  + 在.vimrc中添加：
+  ```
+  Plugin 'godlygeek/tabular'
+  Plugin 'plasticboy/vim-markdown'
+  ```
+  + 在vim运行：
+  ```
+  :so ~/.vimrc
+  :PluginInstall
+  ```
