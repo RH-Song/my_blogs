@@ -1,8 +1,8 @@
 ---
 title: Summer-training
 date: 2016-07-18 22:33:55
-tags:
-categories:
+tags: Summer training
+categories: Project
 ---
 ## 摘要
 本文主要记录初级实训学习的主要内容。包括了大概是三个阶段：准备阶段：学习测量仪器，回顾C语言编程；熟悉阶段：在FPGA上运行HelloWorld，开发小应用，如跑马灯等，最后还了解了uc/os这样一个实时操作系统；以及最后的开发阶段，使用PWM波以及H桥控制车轮，使用超声模块控制让小车感知外界状况，从而进行控制，最后可以使用PID控制理论优化小车的控制。

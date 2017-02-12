@@ -1,7 +1,7 @@
 ---
 title: ROS_by_example
 date: 2016-05-13 12:27:24
-tags:
+tags: ROS by example
 categories: ROS
 ---
 # 概念理解
@@ -24,7 +24,7 @@ categories: ROS
 跟base controller类似，我们也可以在一个较高的层级控制机器人进行建图，只需要我们在ROS环境中添加gmapping package，这个包最好匹配使用激光雷达，也可以使用kinetic和Asus Xtion depth camera。同时，我们可以通过amcl package（Adaptive Monte Carlo Localization）使得机器人能够根据当前的地图信息（current scan）和测量数据（odometry data）自动定位，在地图上点击一个位置，机器人会自动寻路过去并自动避障。
 
 - 架构
-![motion control hierachy](ROS_by_example/arci.png)
+![motion control hierarchy](ROS_by_example/arci.png)
 
 
 

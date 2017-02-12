@@ -1,8 +1,8 @@
 ---
-title: Data Structure Chapter1
+title: 数据结构绪论
 date: 2016-07-17 21:28:48
 tags: Data Structure
-categories:
+categories: Data Structure
 ---
 ## 摘要
 数据结构的绪论部分，涉及最为基本的概念，以及算法评价。

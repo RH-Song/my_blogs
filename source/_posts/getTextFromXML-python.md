@@ -1,8 +1,8 @@
 ---
 title: 使用python处理XML文件
 date: 2016-08-03 20:07:49
-tags: Python XML
-categories:
+tags: Python, XML
+categories: Programming Language
 ---
 
 ## 前言
@@ -51,4 +51,3 @@ except ImportError:
 
 - 这个函数有三个返回值，可以用于获得路径，文件名等，也可以通过拼接字符串得到具体的路径。
 
-## 最后是整个代码的实现

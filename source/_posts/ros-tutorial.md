@@ -1,7 +1,7 @@
 ---
-title: ros_tutorial
+title: 学习ros_tutorial笔记
 date: 2016-05-03 22:12:18
-tags: 
+tags: ros_tutorial
 categories: ROS
 ---
 

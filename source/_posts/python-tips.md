@@ -1,11 +1,11 @@
 ---
-title: python--小tips
+title: python入门笔记
 date: 2016-05-14 10:08:50
-tags:
-categories: Python
+tags: Python
+categories: programming language
 ---
 # 前言
-这是一篇学习Python的笔记，主要是记录Python使用当中一些我感觉跟C或者C++不一样的地方。
+这是一篇学习Python的入门笔记。
 <!--more-->
 
 # 语句

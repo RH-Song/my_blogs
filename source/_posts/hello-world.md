@@ -1,23 +1,24 @@
 ---
-title: 你好，Hexo！
-tags: [Installation]
+title: 安装Hexo
+tags: [Installation Note]
+date: 2016-02-02 13:24:42
 categories: [Hexo]
 ---
-## 自言自语
-回头一看，安装使用Hexo的过程并不是艰难的，然后，依然需要查看许多的不同的博客去解决问题，因为每个人需要解决的问题都是不一样的。
+## 摘要
+安装使用Hexo的过程并不是艰难的，可以结合教程以及一些博客进行安装。
 <!--more-->
 
 ## 具体的安装
 安装步骤，需要git，Node.js，具体的安装教程太多，包括官网，许多博客，这里就略去了。
 
-## 为github添加ssh key：
+## 为Github添加ssh key：
 - 在本机运行
 ``` bash
 ssh-keygen -t rsa -C "your_email@example.com"
 ```
 - 接下来连续三次enter，这样push到github上就不需要输入密码
 - 密码生成之后会保存在相应的.pub文件中。
-- 复制粘贴key的内容到github->setting>ssh key
+- 复制粘贴key的内容到Github->setting>ssh key
 
 ## 本地git配置
 git config --global user.email "email@mail.com"

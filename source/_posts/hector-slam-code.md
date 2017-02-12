@@ -36,4 +36,3 @@ ZigBee的特点：
 
 更具体的内容可查[ROS官网](http://wiki.ros.org/roscpp/Overview/Callbacks%20and%20Spinning)或者是[ROS的消息回调处理：ros::spin()与ros::spinOnce()](http://www.yfworld.com/?p=2318)
 
-

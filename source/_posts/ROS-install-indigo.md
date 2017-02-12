@@ -1,8 +1,8 @@
 ---
-title: ROS：install indigo
+title: 安装ROS Indigo 
 categories: ROS
 date: 2016-05-03 19:12:03
-tags: 
+tags: Indigo 
 ---
 
 # 安装
